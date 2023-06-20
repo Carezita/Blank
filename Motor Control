@@ -1,0 +1,28 @@
+# MOTOR CONTROL
+
+def ENTER():
+    return (A)
+    
+A = int(input("ENTER ROTATION NUMBER: "))
+
+if A >= 5:
+    print('NO')
+else:
+    print('STAND BY')
+
+ #Return to the top
+
+ megaBord.write = 
+ 
+def Standby():
+     ENTER + Stanby()
+     print('Motor Ctrl Program')
+     
+    def up():
+        print("Green LED -> On")
+        megaboard.write(b'up')
+        
+    def down():
+        print('Red LED -> on')
+        megaBoard.write(b'Down')
+Standby()
